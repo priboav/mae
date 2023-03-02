@@ -11,7 +11,7 @@ function carregaMAE() {
         },
 
         dica02: {
-            subtitulo: "Use um sling para carregar o bebê",
+            subtitulo: "2.Use um sling para carregar o bebê",
 
             imagem: "https://i.postimg.cc/HWMVbVyh/sling.jpg",
 
@@ -21,7 +21,7 @@ function carregaMAE() {
         },
 
         dica03: {
-            subtitulo: "Roupas confortáveis, mas que façam você se sentir bonita",
+            subtitulo: "3.Roupas confortáveis, mas que façam você se sentir bonita",
 
             imagem: "https://i.postimg.cc/VNHdWtg3/roupa.jpg",
 
@@ -41,7 +41,7 @@ function carregaMAE() {
         },
 
         dica05: {
-            subtitulo: "Dê colo. Muito colo",
+            subtitulo: "5.Dê colo. Muito colo",
 
             imagem: "https://i.postimg.cc/qv4hJ4gZ/colo.jpg",
 
@@ -51,7 +51,7 @@ function carregaMAE() {
         },
 
         dica06: {
-            subtitulo: "Cante para o seu bebê",
+            subtitulo: "6.Cante para o seu bebê",
 
             imagem: "https://i.postimg.cc/L6zgFn41/cantar.jpg",
 
@@ -81,7 +81,7 @@ function carregaMAE() {
         },
 
         dica09: {
-            subtitulo: "Tenha paciência",
+            subtitulo: "9.Tenha paciência",
 
             imagem: "https://i.postimg.cc/JhhsXxNN/paciencia.jpg",
 
